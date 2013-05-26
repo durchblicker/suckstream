@@ -1,0 +1,6 @@
+{
+  "name":"suckstream",
+  "version":"0.1.0",
+  "description":"Suck a stream into a buffer (for node <0.10.x and >=0.10.x",
+    "main":"suck.js"
+}
